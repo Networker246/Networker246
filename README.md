@@ -1,7 +1,21 @@
-# LITA_DATA CLASS
+# LITA_CLASS DOCUMENTATION
 
 # Project title: My data analysis Journey with The Incubator Hub
 
+[Project Overview](#project-overview)
+
+[Data Analysis Process](#data-analysis-process)
+
+[Data Sources](#data-sources)
+
+[Data Analysis Tools](#data-analysis-tools)
+
+[Data cleaning and Preparation](#data-cleaning-and-preparation)
+
+ [Exploratory Data Analysis](#exploratory-data-analysis)
+ 
+ [Data Analysis](#data-analysis)
+ 
 ## Project Overview
 
 ### This project is my classes with the Incubator hub about data analysis with the Ladies in Tech Africa, from my excellent teachers starting with introduction to Data Analysis to Ms Excel to SQL and Github Portofolio Building and Power BI clas with Temidayi Teedee.
