@@ -32,7 +32,7 @@
   
 ## Data Analysis Tools
 
-### - Microsoft Excel [Download Here](https://www,microsoft.com)
+### - Microsoft Excel [Download Here](https://www.microsoft.com)
 1. For Data cleaning
 2.  For Analysis
 3. For Data Visualization
